@@ -1,4 +1,4 @@
-     ![logo.png](https://i.imgur.com/9QO1ZX9.png)
+![logo.png](https://i.imgur.com/9QO1ZX9.png)
 ---
 ## **<p align="center"> ESC-18104/18105 Programming for Problem Solving </p>**
 #### **<p align="center">Name - _Priyanshu Dhall_ </p>**
