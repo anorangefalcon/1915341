@@ -974,7 +974,7 @@ long int multiplyNumbers(int n)
 ![factRec.c](https://i.imgur.com/yGGPh16.png)
 
 ```C
-/* Without recursion: */
+/* Without Recursion: */
 
 #include <stdio.h>
 
